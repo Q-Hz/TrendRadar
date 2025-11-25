@@ -1,113 +1,176 @@
-胖东来
-于东来
-
 DeepSeek
 梁文锋
+@2
 
 华为
 鸿蒙
 HarmonyOS
 任正非
+@2
 
 比亚迪
 王传福
+@2
 
 大疆
 DJI
+@2
 
 宇树
 王兴兴
+@2
 
 智元
 灵犀
 稚晖君
 彭志辉
+@2
 
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
 
 三体
 流浪地球
 刘慈欣
 郭帆
 
-申奥
-
-京东
-刘强东
 
 字节
 bytedance
 张一鸣
+@2
 
 特斯拉
 马斯克
+@2
 
 微软
 Microsoft
+@2
 
 英伟达
 NVIDIA
 黄仁勋
+@2
 
 AMD
+@2
 
 谷歌
 google
 gemini
 deepmind
+@2
 
 chatgpt
 openai
 sora
+@2
 
 claude
 Anthropic
+@2
 
-iphone
-ipad
-mac
-ios
+自动驾驶
+@2
+
+机器人
+@2
+
+国产
+中国
+@2
+
+美国
+日本
+@2
+
+芯片
+光刻机
+@2
 
 ai
 !gai
 人工智能
+大模型
+生成式AI
+AIGC
+多模态
+AI机器人
+AI Agent
+智能体
+RAG
+检索增强生成
+SFT
+RLHF
+LoRA
+扩散模型
+diffusion
+stable diffusion
+Midjourney
+Runway
+@2
 
-自动驾驶
+前沿科技
+前沿技术
+算力
+GPU
+HPC
+@2
 
-机器人
-
-国产
-中国
-
-美国
-日本
-韩国
-
-芯片
-光刻机
-
-科技
-
+能源
+能源转型
+能源革命
+新能源
+储能
+电网
+智能电网
 核能
+@2
 
-水电站
-雅鲁藏布江
+燃气轮机
+燃机
+涡轮机
+压气机
+燃烧室
+燃机故障诊断
+燃机预测
+燃机健康管理
+@2
 
-新质生产力
+核聚变
+托卡马克
+ITER
+磁约束
+惯性约束
+聚变能源
+等离子体
+@2
 
-月球
-登月
-火星
-宇宙
-飞船
-航空
+氢能
+氨燃料
+碳捕集
+CCUS
+碳中和
+@2
+
+文心一言
+ERNIE Bot
+通义千问
+Qwen
+讯飞星火
+SparkDesk
+百川大模型
+Baichuan
+月之暗面
+Moonshot
+Kimi
+豆包
+Doubao
+混元大模型
+天工大模型
+360智脑
+@5
+
+!AI培训
+!AI课程
+!AI考证
+!AI速成班
