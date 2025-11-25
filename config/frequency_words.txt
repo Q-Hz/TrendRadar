@@ -1,12 +1,12 @@
 DeepSeek
 梁文锋
-@2
+@5
 
 华为
 鸿蒙
 HarmonyOS
 任正非
-@2
+@5
 
 比亚迪
 王传福
@@ -31,7 +31,7 @@ DJI
 流浪地球
 刘慈欣
 郭帆
-
+@2
 
 字节
 bytedance
@@ -40,7 +40,7 @@ bytedance
 
 特斯拉
 马斯克
-@2
+@5
 
 微软
 Microsoft
@@ -49,7 +49,7 @@ Microsoft
 英伟达
 NVIDIA
 黄仁勋
-@2
+@10
 
 AMD
 @2
@@ -58,12 +58,12 @@ AMD
 google
 gemini
 deepmind
-@2
+@10
 
 chatgpt
 openai
 sora
-@2
+@10
 
 claude
 Anthropic
@@ -85,7 +85,7 @@ Anthropic
 
 芯片
 光刻机
-@2
+@5
 
 ai
 !gai
@@ -107,14 +107,14 @@ diffusion
 stable diffusion
 Midjourney
 Runway
-@2
+@15
 
 前沿科技
 前沿技术
 算力
 GPU
 HPC
-@2
+@10
 
 能源
 能源转型
@@ -124,7 +124,7 @@ HPC
 电网
 智能电网
 核能
-@2
+@10
 
 燃气轮机
 燃机
@@ -134,7 +134,7 @@ HPC
 燃机故障诊断
 燃机预测
 燃机健康管理
-@2
+@10
 
 核聚变
 托卡马克
@@ -143,14 +143,14 @@ ITER
 惯性约束
 聚变能源
 等离子体
-@2
+@10
 
 氢能
 氨燃料
 碳捕集
 CCUS
 碳中和
-@2
+@10
 
 文心一言
 ERNIE Bot
@@ -168,7 +168,7 @@ Doubao
 混元大模型
 天工大模型
 360智脑
-@5
+@10
 
 !AI培训
 !AI课程
